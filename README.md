@@ -90,7 +90,7 @@ Represents a simple progress report generated for a student.
 ## Deliverables
 
 * A **header file** for each of the above classes.
-* A single **source file (.cpp)** containing all the implementations.
+* A single **source file (.cpp)** containing all the implementations, which is the main.cpp file included in the folder.
 * A `main()` function that:
 
   * Initializes the portal.
@@ -98,8 +98,8 @@ Represents a simple progress report generated for a student.
   * Enrolls students in courses.
   * Displays the portal’s full information (students, instructors, and courses).
 
-*Include your name on a separate .txt file in the same format:*
-`TeamNumber_StudentName_StudentID.zip`
+*Include your name on the empty information.txt file in the same format:*
+`StudentID_StudentName` e.g: 16007163_Ahmed Mohamed
 
 ---
 
@@ -138,8 +138,4 @@ Student Info:
 Name: Sara Ahmed
 Year: 2
 Major: Informatics
-```
 
----
-
-Would you like me to create **two or three additional topics** (e.g., Smart Home System, Hospital Management System, Library System) written in the *exact same format*, so you can assign a unique one to each group?
