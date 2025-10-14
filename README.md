@@ -98,8 +98,8 @@ Represents a simple progress report generated for a student.
   * Enrolls students in courses.
   * Displays the portal’s full information (students, instructors, and courses).
 
-*Include your name on the empty information.txt file in the same format:*
-`StudentID_StudentName` e.g: 16007163_Ahmed Mohamed
+*Include your name on the empty yourInformation.txt file in the same format:*
+`TutorialNumber_StudentID_StudentName` e.g: T2_16007163_Ahmed Mohamed
 
 ---
 
