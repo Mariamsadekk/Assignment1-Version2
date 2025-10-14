@@ -3,7 +3,7 @@
 The German International University
 Faculty of Informatics and Computer Science
 
-Dr. Nada Shaaf
+Dr. Nada Sharaf
 
 Programming III, Winter Semester 2025/2026
 
